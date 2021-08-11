@@ -1,16 +1,19 @@
-<img src="https://github.com/bughunter0/bughunter0/blob/main/IMG_20210506_192701_579.jpg">
 
-<!--
-**bughunter0/bughunter0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Nuhman](https://www.github.com/bughunter0)
+<br> [![Profile views](https://komarev.com/ghpvc/?username=bughunter0&label=Profile%20views)](https://github.com/bughunter0)
 
-Here are some ideas to get you started:
+- 🎀 COMPUTER SCIENCE STUDENT
+- 🎁 Correcting myself from Bugs
+- ✨ Connect With me On [Instagram](https://www.instagram.com/nuhman_pk) & [Telegram](https://t.me/bughunterbots)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+
+[![Metrics](https://metrics.lecoq.io/bughunter0?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.instagram.com/nuhman_pk)
+
+
+## 💰 Support Me
+- <a href="https://paytm.me/fZ-PsaK"><img src="https://img.shields.io/badge/Paytm-Donate-blue"/></a>
+- <a href="https://paytm.me/p-tPE0l"><img src="https://img.shields.io/badge/Paytm-Donate-blue"/></a>
+- <a href="https://paytm.me/yoB-s0a"><img src="https://img.shields.io/badge/Paytm-Donate-blue"/></a>
+- <a href="https://ko-fi.com/nuhmanpk" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="ko-fi" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
+
