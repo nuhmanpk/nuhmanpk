@@ -21,7 +21,5 @@
 
 
 ## 💰 Support Me
-- <a href="https://paytm.me/fZ-PsaK"><img src="https://img.shields.io/badge/Paytm-Donate-blue"/></a><a href="https://paytm.me/p-tPE0l"><img src="https://img.shields.io/badge/Paytm-Donate-blue"/></a>
-- <a href="https://ko-fi.com/nuhmanpk" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="ko-fi" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
-
-</center>
+- <a href="https://paytm.me/fZ-PsaK"><img src="https://img.shields.io/badge/Paytm-Donate-blue"/></a> <a href="https://paytm.me/p-tPE0l"><img src="https://img.shields.io/badge/Paytm-Donate-blue"/></a>
+- <a href='https://ko-fi.com/R5R05ND54' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
