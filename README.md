@@ -3,7 +3,7 @@
 <br> [![Profile views](https://komarev.com/ghpvc/?username=bughunter0&label=Profile%20views)](https://github.com/bughunter0)
 
 - 🎀 COMPUTER SCIENCE STUDENT
-- 🎁 Correcting myself from Bugs
+- 🎁 Debugging myself from Bugs
 - ✨ Connect With me On [Instagram](https://www.instagram.com/nuhman_pk) & [Telegram](https://t.me/bughunterbots)
 
 ##  💹 Contribution Graph
