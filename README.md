@@ -13,7 +13,7 @@
 <a href="https://github.com/bughunter0">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bughunter0"/>
   </a>
-
+[![github stats](https://github-readme-stats.vercel.app/api?username=bughunter0)](https://www.github.com/bughunter0)
 
 ##  📊 Stats
 
