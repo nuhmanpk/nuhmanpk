@@ -1,6 +1,6 @@
 
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Nuhman](https://www.github.com/bughunter0)
-<br> [![Profile views](https://komarev.com/ghpvc/?username=bughunter0&label=Profile%20views)](https://github.com/bughunter0)
+[![Profile views](https://komarev.com/ghpvc/?username=bughunter0&label=Profile%20views)](https://github.com/bughunter0)
 
 - 🎀 COMPUTER SCIENCE STUDENT
 - 🎁 Debugging myself from Bugs
@@ -8,7 +8,7 @@
 
 ##  💹 Contribution Graph
 
-<a href="https://github.com/bughunter0"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bughunter0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/bughunter0"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bughunter0&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <Br>
 <a href="https://github.com/bughunter0">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bughunter0"/>
