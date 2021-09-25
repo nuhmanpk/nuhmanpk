@@ -4,7 +4,7 @@
 
 - 🎀 COMPUTER SCIENCE STUDENT
 - 🎁 Debugging myself from Bugs
-- ✨ Connect With me On [LinkedIn](www.linkedin.com/in/nuhmanpk) , [Instagram](https://www.instagram.com/nuhman_pk) & [Telegram](https://t.me/bughunterbots)
+- ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/nuhmanpk) , [Instagram](https://www.instagram.com/nuhman_pk) & [Telegram](https://t.me/bughunterbots)
 
 ##  💹 Contribution Graph
 
