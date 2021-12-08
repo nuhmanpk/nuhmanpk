@@ -3,8 +3,6 @@
 [![Profile views](https://komarev.com/ghpvc/?username=bughunter0&label=Profile%20views)](https://github.com/bughunter0)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+ReadMe+profile)](https://git.io/typing-svg)
-
 - 🎀 COMPUTER SCIENCE STUDENT
 - 🎁 Debugging myself from Bugs
 - ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/nuhmanpk) , [Instagram](https://www.instagram.com/nuhman_pk) & [Telegram](https://t.me/bughunterbots)
