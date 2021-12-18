@@ -34,7 +34,3 @@
 
 </details>
 
-## 💰 Support Me
-- <a href="https://paytm.me/yoB-s0a"><img src="https://img.shields.io/badge/Paytm-Donate-blue"/></a> <a href="https://paytm.me/p-tPE0l"><img src="https://img.shields.io/badge/Paytm-Donate-blue"/></a>
-- <a href='https://ko-fi.com/R5R05ND54' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-- <a href="https://paypal.me/nuhmanpk"><img src="https://www.paypalobjects.com/webstatic/en_AU/i/buttons/btn_paywith_primary_s.png" alt="Pay with PayPal" /></a>
