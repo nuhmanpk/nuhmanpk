@@ -7,7 +7,7 @@
 - 🎁 Debugging myself from Bugs
 - ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/nuhmanpk) , [Instagram](https://www.instagram.com/nuhman_pk) & [Telegram](https://t.me/bughunterbots)
 
-##  💹 Contribution Graph
+##  <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="80px"> Contribution Graph 
 
 <a href="https://github.com/nuhmanpk"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nuhmanpk&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <Br>
