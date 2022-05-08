@@ -3,7 +3,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=nuhmanpk&label=Profile%20views)](https://github.com/nuhmanpk)<img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="50px">
 
 
-- 🎀 COMPUTER SCIENCE STUDENT
+- 🎀 Software Engineer
 - 🎁 Debugging myself from Bugs
 - ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/nuhmanpk) , [Instagram](https://www.instagram.com/nuhman_pk) & [Telegram](https://t.me/bughunterbots)
 
