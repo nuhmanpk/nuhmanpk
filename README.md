@@ -1,14 +1,14 @@
 
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" alt="hai"> I'm [Nuhman](https://www.github.com/nuhmanpk)
-[![Profile views](https://komarev.com/ghpvc/?username=nuhmanpk&label=Profile%20views)](https://github.com/nuhmanpk)<img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="50px">
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%" alt="hai"> I'm [Nuhman](https://www.github.com/nuhmanpk)
+[![Profile views](https://komarev.com/ghpvc/?username=nuhmanpk&label=Profile%20views)](https://github.com/nuhmanpk)<img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">
 
 
 - 🎀 Software Engineer
 - 🎁 Debugging myself from Bugs
 - ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/nuhmanpk) , [Instagram](https://www.instagram.com/nuhman_pk) & [Telegram](https://t.me/bughunterbots)
+<img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="center"/>
 
-##  <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="80px"> Contribution Graph 
-
+## Contribution Graph 
 <a href="https://github.com/nuhmanpk"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nuhmanpk&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&theme=dark" /></a>
 <Br>
 <a href="https://github.com/nuhmanpk">
