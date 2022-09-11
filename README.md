@@ -6,7 +6,8 @@
 - 🎀 Software Engineer
 - 🎁 Debugging myself from Bugs
 - ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/nuhmanpk) , [Instagram](https://www.instagram.com/nuhman_pk) & [Telegram](https://t.me/bughunterbots)
-<img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="center"/>
+- 💰 Sponsor me Here [Github Sponsors](https://github.com/sponsors/nuhmanpk)
+
 
 ## Contribution Graph 
 <a href="https://github.com/nuhmanpk"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nuhmanpk&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&theme=dark" /></a>
@@ -33,6 +34,4 @@
     
 </details>
 
-<BR><a href=https://github.com/sponsors/nuhmanpk>
-    <img src="git-sponsor.png"/></a>
-    <br>
+
