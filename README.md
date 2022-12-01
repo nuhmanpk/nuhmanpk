@@ -29,7 +29,7 @@
 <details>
 <summary> Languages and Tools : </summary>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,py,c,cpp,css,firebase,flask,git,github,heroku,java,linux,md,mongodb,mysql,netlify,nodejs,php,postgres,powershell,redux,sqlite,selenium,tensorflow,bootstrap,androidstudio,express)](https://github.com/nuhmanpk)  
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,py,c,cpp,css,firebase,flask,git,github,heroku,java,linux,md,mongodb,mysql,netlify,nodejs,php,postgres,powershell,redux,sqlite,selenium,tensorflow,bootstrap,androidstudio,express,nestjs,vite&perline=8)](https://github.com/nuhmanpk)  
     
     
 </details>
