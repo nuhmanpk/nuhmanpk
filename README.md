@@ -10,12 +10,14 @@
 
 
 ## Contribution Graph 
-<a href="https://github.com/nuhmanpk"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nuhmanpk&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&theme=dark" /></a>
+<!-- <a href="https://github.com/nuhmanpk"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nuhmanpk&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&theme=dark" /></a> -->
 <Br>
+    <img alt="summary-card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuhmanpk&theme=github_dark" style="width:100%"/>
+    
 <a href="https://github.com/nuhmanpk">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuhmanpk&theme=dark" style="width:100%"/>
+    <img alt="summary-card" src="https://github-readme-streak-stats.herokuapp.com/?user=nuhmanpk&theme=dark" style="width:100%"/>
   </a>
-<img src="https://github-readme-stats.vercel.app/api?username=nuhmanpk&theme=dark" style="width:100%">
+
 
 ##  📊 Stats
 <details>
@@ -33,5 +35,16 @@
     
     
 </details>
-
-
+    
+<details>
+<summary> Overview </summary>
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nuhmanpk&theme=github_dark"  />
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nuhmanpk&theme=github_dark" />
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nuhmanpk&theme=github_dark"  />
+</details>
+    
+ ##  🧭 Reach me here
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/nuhman_pk)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/nuhmanpk)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow&theme=dark)](https://stackoverflow.com/users/16388290/nuhman-pk)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://www.github.com/nuhmanpk)
