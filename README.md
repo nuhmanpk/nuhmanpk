@@ -38,9 +38,9 @@
     
 <details>
 <summary> Overview </summary>
-  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nuhmanpk&theme=github_dark"  />
-  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nuhmanpk&theme=github_dark" />
-  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nuhmanpk&theme=github_dark"  />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nuhmanpk&theme=github_dark"  />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nuhmanpk&theme=github_dark" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nuhmanpk&theme=github_dark"  />
 </details>
     
  ##  🧭 Reach me here
