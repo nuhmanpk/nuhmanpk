@@ -51,11 +51,12 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nuhmanpk&theme=github_dark"  />
 </details>
 
+<!--  [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16388290)](https://stackoverflow.com/users/16388290/nuhmanpk) -->
 
-    
  ##  🧭 Reach me here
+
+
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/nuhman_pk)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/nuhmanpk)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow&theme=dark)](https://stackoverflow.com/users/16388290/nuhman-pk)
 [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://www.github.com/nuhmanpk)
-
