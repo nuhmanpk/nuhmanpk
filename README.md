@@ -31,20 +31,31 @@
 <details>
 <summary> Languages and Tools : </summary>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,py,c,cpp,css,firebase,flask,git,github,heroku,java,linux,md,mongodb,mysql,netlify,nodejs,php,postgres,powershell,redux,sqlite,selenium,tensorflow,bootstrap,androidstudio,express,nestjs,vite&perline=8)](https://github.com/nuhmanpk)  
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,pytorch,py,c,cpp,css,firebase,flask,git,github,heroku,java,linux,md,mongodb,mysql,netlify,nodejs,php,postgres,powershell,redux,sqlite,selenium,tensorflow,bootstrap,androidstudio,express,nestjs,vite&perline=8)](https://github.com/nuhmanpk)  
     
     
 </details>
-    
+
+<details>
+
+<summary> Contributions : </summary>
+
+[![Contributions](https://github-contributor-stats.vercel.app/api?username=nuhmanpk&theme=github_dark&combine_all_yearly_contributions=true)](https://github.com/nuhmanpk)
+
+</details>
+
 <details>
 <summary> Overview </summary>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nuhmanpk&theme=github_dark"  />
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nuhmanpk&theme=github_dark" />
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nuhmanpk&theme=github_dark"  />
 </details>
+
+
     
  ##  🧭 Reach me here
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/nuhman_pk)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/nuhmanpk)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow&theme=dark)](https://stackoverflow.com/users/16388290/nuhman-pk)
 [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://www.github.com/nuhmanpk)
+
