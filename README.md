@@ -1,7 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="hai"> I'm [Nuhman](https://www.github.com/nuhmanpk)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/nuhmanpk/nuhmanpk/main/wwdc_prev_ui.png" />
+<img src="https://raw.githubusercontent.com/nuhmanpk/nuhmanpk/main/assests/wwdc_prev_ui.png" />
 </p>
 
 ## 🌟 About Me:
@@ -107,6 +107,10 @@ If you find my repositories helpful or simply want to support my coding escapade
 
 ## 🌐 Connect with Me
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/nuhmanpk/nuhmanpk/main/assests/coding_img.png" />
+</p>
+
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nuhman_pk)](https://www.instagram.com/nuhman_pk)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nuhmanpk)](https://www.linkedin.com/in/nuhmanpk)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://www.github.com/nuhmanpk)](https://www.github.com/nuhmanpk)
@@ -117,5 +121,4 @@ If you find my repositories helpful or simply want to support my coding escapade
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/16388290/nuhman-pk)](https://stackoverflow.com/users/16388290/nuhman-pk)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@nuhmanpk)](https://medium.com/@nuhmanpk)
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor%20Me-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/nuhmanpk)
-
 
