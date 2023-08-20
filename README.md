@@ -108,7 +108,7 @@ If you find my repositories helpful or simply want to support my coding escapade
 ## 🌐 Connect with Me
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/nuhmanpk/nuhmanpk/main/assests/coding_img.png" />
+<!--     <img src="https://raw.githubusercontent.com/nuhmanpk/nuhmanpk/main/assests/coding_img.png" /> -->
 </p>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nuhman_pk)](https://www.instagram.com/nuhman_pk)
