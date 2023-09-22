@@ -114,7 +114,7 @@ If you find my repositories helpful or simply want to support my coding escapade
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nuhman_pk)](https://www.instagram.com/nuhman_pk)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nuhmanpk)](https://www.linkedin.com/in/nuhmanpk)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://www.github.com/nuhmanpk)](https://www.github.com/nuhmanpk)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/pk_nuhman)](https://twitter.com/pk_nuhman)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/pk_nuhman)](https://twitter.com/pk__nuhman)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/nuhmanpk)](https://dev.to/nuhmanpk)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/nuhmanpk)](https://www.kaggle.com/nuhmanpk)
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/nuhmanpk)](https://codepen.io/nuhmanpk)
