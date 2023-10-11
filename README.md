@@ -102,8 +102,12 @@ If you find my repositories helpful or simply want to support my coding escapade
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nuhmanpk&theme=github_dark"  />
 </details>
 
+<details>
+<summary> Badges: </summary>
+    
+[![An image of @nuhman_pk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nuhman_pk)](https://holopin.io/@nuhman_pk)
 
-
+</details>
 
 ## 🌐 Connect with Me
 
@@ -121,4 +125,3 @@ If you find my repositories helpful or simply want to support my coding escapade
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/16388290/nuhman-pk)](https://stackoverflow.com/users/16388290/nuhman-pk)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@nuhmanpk)](https://medium.com/@nuhmanpk)
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor%20Me-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/nuhmanpk)
-
