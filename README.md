@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="hai"> I'm [Nuhman](https://www.github.com/nuhmanpk)
+### Hi,  I'm [Nuhman](https://www.github.com/nuhmanpk) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="hai">
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nuhmanpk/nuhmanpk/main/assests/wwdc_prev_ui.png" />
