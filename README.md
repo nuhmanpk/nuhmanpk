@@ -20,12 +20,9 @@ If you find my repositories helpful or simply want to support my coding escapade
     <img alt="summary-card" src="https://github-readme-streak-stats.herokuapp.com/?user=nuhmanpk&theme=dark" style="width:100%"/>
   </a>
 
-## 💻 Kaggle Progression
-[![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nuhmanpk/competition)](https://kaggle.com/nuhmanpk)
-[![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nuhmanpk/dataset)](https://kaggle.com/nuhmanpk)
-[![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nuhmanpk/notebook)](https://kaggle.com/nuhmanpk)
-[![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nuhmanpk/discussion)](https://kaggle.com/nuhmanpk)
-
+## 💻 Github Commit Graph
+    
+![image](https://github.com/nuhmanpk/nuhmanpk/assets/62880706/97563938-b705-4f1d-a1eb-eaa2db53c696)
 
 
 ##  📊 Stats
