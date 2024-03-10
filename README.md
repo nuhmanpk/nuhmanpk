@@ -7,9 +7,9 @@
 ## 🌟 About Me:
 A passionate Software Engineer 👨‍💻 who loves building robust and scalable applications. My coding journey began with a boundless curiosity for technology, and since then, I've been on an exciting adventure of problem-solving! 🚀 I take great delight in tackling complex challenges and crafting elegant solutions. Let's team up and create amazing things together! 😊🌟
 
-If you find my repositories helpful or simply want to support my coding escapades, you can become my GitHub sponsor and join the elite club of coding heroes! 💪 Just click [here](https://github.com/sponsors/nuhmanpk) to become a part of the exclusive sponsorship squad. Your generous sponsorship will be greatly appreciated and will keep the coding magic going! 🎩✨ Thank you in advance for your support!
-
 🚀 Coding through the galaxy, making mistakes like a shooting star, but hey, I'm still learning! Join the adventure and sponsor my coding escapades on GitHub. Let's turn mistakes into magic! 🌟✨
+
+If you find my repositories helpful or simply want to support my coding escapades, you can become my GitHub sponsor and join the elite club of coding heroes! 💪 Just click [here](https://github.com/sponsors/nuhmanpk) to become a part of the exclusive sponsorship squad. Your generous sponsorship will be greatly appreciated and will keep the coding magic going! 🎩✨ Thank you in advance for your support!
 
 ## 👨🏻‍💻 Contribution Graph 
 
@@ -88,6 +88,8 @@ If you find my repositories helpful or simply want to support my coding escapade
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width='50px' height='50px'/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" width='50px' height='50px'/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width='50px' height='50px'/>        
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width='50px' height='50px'/>        
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-plain-wordmark.svg" width='50px' height='50px'/>        
  </span>         
  
 </details>
