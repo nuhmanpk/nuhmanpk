@@ -139,3 +139,6 @@ Feel free to reach out! 📧 [Email me](mailto:nuhmanpk7@gmail.com)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@nuhmanpk)](https://medium.com/@nuhmanpk)
 [![GitHub Sponsor](https://img.shields.io/badge/Github%20Sponsor-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/nuhmanpk)
 [![Google Dev](https://img.shields.io/badge/Google%20Developer%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/nuhmanpk)
+
+
+Life's too short to debug. Just comment it out and ship it – future you can handle the chaos!
