@@ -4,14 +4,10 @@
 <img src="https://raw.githubusercontent.com/nuhmanpk/nuhmanpk/main/assests/wwdc_prev_ui.png" />
 </p>
 
-## 🌟 About Me:
-A passionate Software Engineer 👨‍💻 who loves building robust and scalable applications. My coding journey began with a boundless curiosity for technology, and since then, I've been on an exciting adventure of problem-solving! 🚀 I take great delight in tackling complex challenges and crafting elegant solutions. Let's team up and create amazing things together! 😊🌟
+## 🤖 Debugging? Never Heard of It:
 
-🚀 Coding through the galaxy, making mistakes like a shooting star, but hey, I'm still learning! Join the adventure and sponsor my coding escapades on GitHub. Let's turn mistakes into magic! 🌟✨
+Life's too short to debug—just comment it out and call it a **feature!** 😜🚀 If you’re here because of one of my **“features,”** feel free to reach out! 📧 [Email me](mailto:nuhmanpk7@gmail.com). Sponsor my GitHub antics [here](https://github.com/sponsors/nuhmanpk)! 🌟✨
 
-If you find my repositories helpful or simply want to support my coding escapades, you can become my GitHub sponsor and join the elite club of coding heroes! 💪 Just click [here](https://github.com/sponsors/nuhmanpk) to become a part of the exclusive sponsorship squad. Your generous sponsorship will be greatly appreciated and will keep the coding magic going! 🎩✨ Thank you in advance for your support!
-
-Feel free to reach out! 📧 [Email me](mailto:nuhmanpk7@gmail.com)
 
 ## 👨🏻‍💻 Contribution Graph 
 
@@ -139,6 +135,3 @@ Feel free to reach out! 📧 [Email me](mailto:nuhmanpk7@gmail.com)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@nuhmanpk)](https://medium.com/@nuhmanpk)
 [![GitHub Sponsor](https://img.shields.io/badge/Github%20Sponsor-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/nuhmanpk)
 [![Google Dev](https://img.shields.io/badge/Google%20Developer%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/nuhmanpk)
-
-
-Life's too short to debug. Just comment it out and ship it – future you can handle the chaos!
