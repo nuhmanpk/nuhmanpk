@@ -44,7 +44,7 @@ Life's too short to debug—just comment it out and call it a **feature!** 😜�
 <details>
 <summary>Github Overview :</summary>
 
-[![Tap to Reload](https://metrics.lecoq.io/nuhmanpk?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/nuhmanpk)
+[![Check out nuhmanpk's profile on stardev.io](https://stardev.io/developers/nuhmanpk/badge/languages/global.svg)](https://stardev.io/developers/nuhmanpk)
 
 
 </details>
