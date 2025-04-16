@@ -6,7 +6,7 @@
 
 ## 🤖 Debugging? Never Heard of It:
 
-Life's too short to debug—just comment it out and call it a **feature!** 😜🚀 If you’re here because of one of my **“features,”** feel free to reach out! 📧 [Email me](mailto:nuhmanpk7@gmail.com). Sponsor my GitHub antics [here](https://github.com/sponsors/nuhmanpk)! 🌟✨
+Life's too short to debug—just comment it out and call it a **feature!** 😜🚀 If you’re here because of one of my **“features,”** feel free to reach out! 📧. Sponsor my GitHub antics [here](https://github.com/sponsors/nuhmanpk)! 🌟✨
 
 
 ## 👨🏻‍💻 Contribution Graph 
