@@ -124,7 +124,10 @@ Life's too short to debug—just comment it out and call it a **feature!** 😜�
 <!--     <img src="https://raw.githubusercontent.com/nuhmanpk/nuhmanpk/main/assests/coding_img.png" /> -->
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nuhmanpk)](https://www.linkedin.com/in/nuhmanpk)
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nuhmanpk)](https://www.linkedin.com/in/nuhmanpk) -->
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nuhmanpk)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=nuhmanpk)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://www.github.com/nuhmanpk)](https://www.github.com/nuhmanpk)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/pk_nuhman)](https://twitter.com/pk__nuhman)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nuhman_pk)](https://www.instagram.com/nuhman_pk)
