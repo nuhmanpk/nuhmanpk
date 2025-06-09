@@ -25,7 +25,7 @@ Life's too short to debug—just comment it out and call it a **feature!** 😜�
 
 ##  📊 Stats
 <details>
-    <summary>Github Dashboard</summary>
+    <summary>Github Dashboard: </summary>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=62880706" target="_blank" style="display: block" align="center">
   <picture>
