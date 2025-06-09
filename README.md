@@ -25,6 +25,19 @@ Life's too short to debug—just comment it out and call it a **feature!** 😜�
 
 ##  📊 Stats
 <details>
+    <summary>Github Dashboard</summary>
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=62880706" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=62880706&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @nuhmanpk" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=62880706&image_size=auto&color_scheme=light" width="auto" height="auto">
+  </picture>
+</a>
+    
+</details>
+
+
+<details>
 <summary>Profile Stats :</summary>
     
 [![Profile views](https://komarev.com/ghpvc/?username=nuhmanpk&label=Profile%20views)](https://github.com/nuhmanpk)
@@ -33,9 +46,10 @@ Life's too short to debug—just comment it out and call it a **feature!** 😜�
 [![Repos](https://badges.pufler.dev/repos/nuhmanpk)](https://github.com/nuhmanpk?tab=repositories)
 [![Commits](https://badges.pufler.dev/commits/monthly/nuhmanpk)](https://github.com/nuhmanpk)
 [![Gists](https://badges.pufler.dev/gists/nuhmanpk)](https://gist.github.com/nuhmanpk)
-[![nuhmanpk](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nuhmanpk)](https://kaggle.com/nuhmanpk)
+
 
 </details>
+
 <details>
 <summary>Recent Stars :</summary>
     
@@ -45,7 +59,6 @@ Life's too short to debug—just comment it out and call it a **feature!** 😜�
 <summary>Github Overview :</summary>
 
 [![Check out nuhmanpk's profile on stardev.io](https://stardev.io/developers/nuhmanpk/badge/languages/global.svg)](https://stardev.io/developers/nuhmanpk)
-
 
 </details>
 
