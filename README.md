@@ -20,7 +20,7 @@ Life's too short to debug—just comment it out and call it a **feature!** 😜�
 
 ## 💻 Github Commit Graph
     
-![image](https://github.com/nuhmanpk/nuhmanpk/assets/62880706/97563938-b705-4f1d-a1eb-eaa2db53c696)
+<img width="1352" height="1752" alt="image" src="https://github.com/user-attachments/assets/2831eb2b-bc58-4e39-883a-e423995898a1" />
 
 
 ##  📊 Stats
