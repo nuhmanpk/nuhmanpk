@@ -38,7 +38,7 @@ Life's too short to debug—just comment it out and call it a **feature!** 😜�
 
 <details>
     <summary>
-        GitSince
+        GitSince:
     </summary>
     <img src="https://git-since.vercel.app/api/badge?user=nuhmanpk&theme=dark&style=gradient&width=650&height=300&emojiPosition=right" alt="GitSince badge" />
 </details>
